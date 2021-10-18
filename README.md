@@ -1,4 +1,4 @@
-#SimpleConnectFour
+# SimpleConnectFour
 The game features 2 game modes: pvp and pvc
 
 The AI uses a min-max algorithm to make it's move. The greater the difficulty, 
